@@ -21,3 +21,5 @@ The files in the repository include:
  * Matplotlib
  * Seaborn
  * Scipy
+
+The medium post for the analysis can be found at https://medium.com/@arisekolakolade/answering-a-few-questions-about-the-airbnb-data-235aef11b650
